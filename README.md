@@ -1,5 +1,3 @@
-Patched fork of HLavalink. This fork runs Lavalink build 1222 instead of the outdated 1079 as links have been fixed. This fork should help with anyone experiencing "No matches found" errors.
-
 # HLavalink
 
 **Lavalink** on **Heroku**, in a nutshell
